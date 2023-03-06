@@ -3,6 +3,9 @@
 ### Colab
 https://colab.research.google.com/drive/13RfNb9PS2f68HAyHRz8PgYrBJCDMhKt0?usp=sharing
 
+#### Ссылка на эксперимент в Encode 
+https://www.encodeproject.org/experiments/ENCSR760ZVL/
+
 ### Реплика 1 - ENCFF025CYO
 ### Реплика 2 - ENCFF857ZQN
 ### Контроль - ENCFF418LZN
@@ -45,6 +48,12 @@ https://colab.research.google.com/drive/13RfNb9PS2f68HAyHRz8PgYrBJCDMhKt0?usp=sh
 что я взял очень маленьку хромосому для выравнинвания chr22. Мы и так
 берем одну хромосому, так она еще и очень маленькая.
 
+## Результат Бонуса
 
+Я взял две записи ENCFF783MYB.bigWig и ENCFF502IGF.bigWig, взял сразу bigWig чтобы не мучаться с переводом из bam.
 
+Программа ну очень долга работала... в сумме почти 5 часов...
 
+![result.png](pictures%2Fresult.png)
+
+![result2.png](pictures%2Fresult2.png)
